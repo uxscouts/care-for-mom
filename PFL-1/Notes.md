@@ -82,5 +82,17 @@ Professional Intervention: Look up specialized hoarding cleanup services in King
 
 Coordinate with Your Father’s Case Manager
 
+Since your father is post-surgery and headed to a nursing home, the hospital cannot legally or safely discharge him to an unsafe home environment.
 
+Locate the Hospital Social Worker or Case Manager managing your father's care.
+
+Inform them immediately that the home is a hazardous hoarding environment and the toilet is broken. This ensures they keep him safely in rehabilitation/skilled nursing and gives you leverage to request a hospital transition planner to help navigate your mother's options.
+
+Call the NYS Paid Family Leave Helpline at (844) 337-6303 or file an online complaint through the NYS Paid Family Leave Rights and Protections portal to report that your employer is withholding Part B of Form PFL-1
+
+What the Law Requires
+
+3-Business-Day Deadline: New York State law requires your employer to complete and return Part B of Form PFL-1 (which provides wage and employment info) to you within three business days
+
+Employers Cannot Deny PFL: Your employer does not have the legal authority to approve or deny your Paid Family Leave claim—only the insurance carrier can make that decision.
 
