@@ -96,3 +96,36 @@ What the Law Requires
 
 Employers Cannot Deny PFL: Your employer does not have the legal authority to approve or deny your Paid Family Leave claim—only the insurance carrier can make that decision.
 
+Insurance Carrier Submission: You do not technically need to wait for a stubborn employer to hand over Part B if you can submit what you have to your employer's PFL insurance carrier, though the carrier will still need wage verification.
+
+Steps to Get Help Right Now
+
+Call the Helpline Directly: Dial (844) 337-6303 (Monday through Friday, 8:30 a.m. to 4:30 p.m. EST) to report your employer's failure to respond.
+
+Find Your PFL Insurance Carrier: Contact your company's HR or payroll provider to ask who their Paid Family Leave insurance carrier is, or check your job's PFL Notice of Compliance poster. You can often file directly with the insurance carrier and inform them that your employer is non-responsive.
+
+Contact Free Legal Assistance: Reach out to A Better Balance at 1-833-NEED-ABB (1-833-633-32bb) for free, confidential legal guidance on worker leave rights in New York.
+
+To find the exact Paid Family Leave (PFL) insurance carrier for Royale Concierge (Royale Company), you can look it up directly through the New York State Workers' Compensation Board (NYS WCB) Employer Coverage Search tool.
+
+Because insurance policies change annually and specific employer account configurations are confidential, third parties do not have a public list of every company's active carrier.
+
+How to Look Up Royale Concierge's PFL Carrier
+
+Every New York employer is required to maintain a Disability Benefits Law (DBL) policy that automatically includes PFL coverage. You can verify their carrier instantly by following these steps
+
+Go to the official NYS WCB Employer Coverage Search page.
+
+Enter the legal entity name (try searching "Royale Company" or "Royale Concierge").
+
+If prompted, look for their official Manhattan corporate headquarters address at 387 Second Ave, New York, NY 10010 to make sure you select the correct employer.
+
+The system will display the current active insurance provider handling both their New York State Disability (DBL) and Paid Family Leave (PFL) benefits.
+
+What to Do If You Are an Employee Trying to File a Claim
+
+If you are an employee of Royale Concierge planning to take leave, you have a legal right to this information:
+
+Contact HR Directly: Reach out to the Royale Company corporate office by emailing info@royalecompany.com or calling 888-698-3375 to request the specific PFL-1 claim form pre-filled with their carrier details
+
+Check the Breakroom / Office: By law, employers in New York must visibly post Form PFL-Notice of Compliance (which explicitly lists the carrier name) in an accessible workplace area.
